@@ -7,6 +7,9 @@ const Scroll = (props) => {
         overflowY: "scroll",
         border: "1px solid black",
         height: "700px",
+        display: "flex",
+        flexFlow: "row wrap",
+        justifyContent: "center"
       }}
     >
       {props.children}
