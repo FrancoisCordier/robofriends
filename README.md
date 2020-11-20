@@ -8,8 +8,6 @@ It uses [RoboHash](https://robohash.org/) to generate random robots pictures to 
 
 You can see a live demo [here](francoiscordier.github.io/robofriends).
 
-You can 
-
 ## How to run the project
 
 1. Clone the repository
