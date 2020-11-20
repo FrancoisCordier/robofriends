@@ -34,10 +34,8 @@ class App extends Component {
     } else {
       return (
         <>
-          <h1 className="f1">RoboFriends</h1>
-          <div className="searchBoxContainer">
-            <SearchBox searchChange={this.onSearchChange} />
-          </div>
+          <h1 className="flex tc f1">RoboFriends</h1>
+          <SearchBox searchChange={this.onSearchChange} />
           <Scroll>
             <CardList robots={filteredRobots} />
           </Scroll>
