@@ -1,4 +1,6 @@
-# What is this ?
+# RoboFriends
+
+## What is this ?
 
 A simple project I did to learn React.
 
