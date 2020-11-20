@@ -9,7 +9,8 @@ const Scroll = (props) => {
         height: "700px",
         display: "flex",
         flexFlow: "row wrap",
-        justifyContent: "center"
+        justifyContent: "center",
+        alignItems: "flex-start"
       }}
     >
       {props.children}
